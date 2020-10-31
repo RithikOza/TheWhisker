@@ -22,4 +22,35 @@ function App() {
   );
 }
 
+
+export default props => {
+  return (
+    <Menu>
+      <a className="menu-item" href="/">
+        Home
+      </a>
+      <a className="menu-item" href="/salads">
+        Salads
+      </a>
+      <a className="menu-item" href="/pizzas">
+        Pizzas
+      </a>
+      <a className="menu-item" href="/desserts">
+        Desserts
+      </a>
+    </Menu>
+  );
+};
+
+function App() {
+  return (
+    <div className="App" id="outer-container">
+      <div id="page-wrap">
+        <h1>Cool Restaurant</h1>
+        <h2>Check out our offerings in the sidebar!</h2>
+      </div>
+    </div>
+  );
+}
+
 export default App;
