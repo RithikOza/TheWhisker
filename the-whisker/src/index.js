@@ -1,12 +1,10 @@
-import React, {CatAnimated} from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <div>
-      Hello
-  </div>,
+  <div>HEllo</div>,
   document.getElementById('root')
 );
 
