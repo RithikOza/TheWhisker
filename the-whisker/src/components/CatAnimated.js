@@ -13,3 +13,4 @@ Cat
     )
 }
 }
+export default CatAnimated;

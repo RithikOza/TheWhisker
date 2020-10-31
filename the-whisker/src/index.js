@@ -1,12 +1,12 @@
-import React from 'react';
+import React, {CatAnimated} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-   
-  </React.StrictMode>,
+  <div>
+      Hello
+  </div>,
   document.getElementById('root')
 );
 
