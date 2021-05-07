@@ -2,5 +2,5 @@
 
 # TheWhisker
 
-# Cool Apps for cOll People
+# Cool Apps for COOL People
 # Cool people welcomed!
